@@ -17,3 +17,6 @@
 [twitter]: https://twitter.com/notcxro
 [instagram]: https://instagram.com/notcxro
 [linkedin]: https://www.linkedin.com/in/caroline-mendez-41a181134/
+
+
+[![Caro's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaroMen)](https://github.com/CaroMen/github-readme-stats)
