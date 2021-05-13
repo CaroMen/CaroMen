@@ -19,4 +19,4 @@
 [linkedin]: https://www.linkedin.com/in/caroline-mendez-41a181134/
 
 
-[![Caro's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaroMen&show_icons=true)(https://github.com/CaroMen/github-readme-stats)
+![Caro's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaroMen&show_icons=true)
