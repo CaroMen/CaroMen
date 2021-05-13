@@ -1,4 +1,4 @@
-### Heyo 👋
+### Heyo, I'm Caro 👋🏼
 
 ### Connect with me:
 
