@@ -1,16 +1,18 @@
-### Hi there 👋
+### Heyo 👋
 
-<!--
-**CaroMen/CaroMen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/notcxro)
 
-Here are some ideas to get you started:
+### Connect with me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[💻][website]
+[🤝][linkedin]
+[📸][instagram]
+[🐥][twitter]
+
+<br />
+
+
+[website]: https://carocode.com
+[twitter]: https://twitter.com/notcxro
+[instagram]: https://instagram.com/notcxro
+[linkedin]: https://www.linkedin.com/in/caroline-mendez-41a181134/
