@@ -1,13 +1,14 @@
 ### Heyo 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/notcxro)
-
 ### Connect with me:
 
-[💻][website]
-[🤝][linkedin]
-[📸][instagram]
-[🐥][twitter]
+[💻 My Website][website]
+<br />
+[🤝 LinkedIn][linkedin]
+<br />
+[📸 Instagram][instagram]
+<br />
+[🐥 Twitter][twitter]
 
 <br />
 
