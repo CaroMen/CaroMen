@@ -56,6 +56,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 <div align="center">
+   <h2>Streaks 🔥</h2>
    <a href="https://github.com/CaroMen/github-readme-streak-stats">
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="CaroMen's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=CaroMen&theme=material-palenight&hide_border=true"/>
    </a>
@@ -63,12 +64,13 @@
 
 
 <div align="center">
+   <h2>My Top Languages 💯</h2>
    <a href="https://github.com/CaroMen/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaroMen&layout=compact&theme=material-palenight"/>
    </a>
 </div>
 
-<!-- ![Caro's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaroMen&show_icons=true&theme=material-palenight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaroMen&layout=compact&theme=material-palenight)](https://github.com/CaroMen/github-readme-stats) -->
+![Caro's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaroMen&show_icons=true&theme=material-palenight)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaroMen&layout=compact&theme=material-palenight)](https://github.com/CaroMen/github-readme-stats) -->
 
 
