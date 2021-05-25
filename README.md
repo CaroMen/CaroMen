@@ -5,7 +5,7 @@
   
 </div>
 
-### Connect with me:
+<!-- ### Connect with me:
 
 [💻 My Website][website]
 <br />
@@ -13,9 +13,22 @@
 <br />
 [📸 Instagram][instagram]
 <br />
-[🐥 Twitter][twitter]
+[🐥 Twitter][twitter] -->
 
-<br />
+<!-- <br /> -->
+
+<p align='center'>
+  <h2>Connect with me:</h2>
+  
+   [💻 My Website][website]
+   <br />
+   [🤝 LinkedIn][linkedin]
+   <br />
+   [📸 Instagram][instagram]
+   <br />
+   [🐥 Twitter][twitter]
+</p>
+
 
 
 [website]: https://carocode.com
