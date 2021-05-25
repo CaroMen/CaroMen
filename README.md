@@ -39,6 +39,7 @@
 
 <div align="center">
    <h1>Technologies 👩🏽‍💻</h1>
+   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
 </div>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
