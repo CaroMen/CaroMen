@@ -1,4 +1,9 @@
-### Heyo, I'm Caro 👋🏼
+<!-- ### Heyo, I'm Caro 👋🏼 -->
+
+<div align="center">
+   <h1>Hi there, I'm Caro 👋🏼</h1>
+  
+</div>
 
 ### Connect with me:
 
