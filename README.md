@@ -17,7 +17,7 @@
 
 <!-- <br /> -->
 
-<p align='center'>
+<div align='center'>
   <h2>Connect with me:</h2>
   
    [💻 My Website][website]
@@ -27,7 +27,7 @@
    [📸 Instagram][instagram]
    <br />
    [🐥 Twitter][twitter]
-</p>
+</div>
 
 
 
