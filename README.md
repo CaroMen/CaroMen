@@ -63,8 +63,8 @@
 
 
 <div align="center">
-   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=CaroMen&layout=compact&theme=material-palenight">
-      <img src="https://github.com/CaroMen/github-readme-stats"/>
+   <a href="https://github.com/CaroMen/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaroMen&layout=compact&theme=material-palenight"/>
    </a>
 </div>
 
