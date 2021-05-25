@@ -75,15 +75,11 @@
 </div>
 
 <div align="center">
-   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+   <h2>My Contribution Stats 🤝</h2>
+   <a href="https://github.com/ashutosh00710&theme=dracula/github-readme-activity-graph">
       <img src="https://activity-graph.herokuapp.com/graph?username=CaroMen"/>
    </a>
 </div>
 
-<!-- [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
- -->
-
-<!-- ![Caro's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaroMen&show_icons=true&theme=material-palenight) -->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaroMen&layout=compact&theme=material-palenight)](https://github.com/CaroMen/github-readme-stats) -->
 
 
