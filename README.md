@@ -76,8 +76,8 @@
 
 <div align="center">
    <h2>My Contribution Stats 🤝</h2>
-   <a href="https://github.com/ashutosh00710&theme=dracula/github-readme-activity-graph">
-      <img src="https://activity-graph.herokuapp.com/graph?username=CaroMen"/>
+   <a href="https://github.com/CaroMen/github-readme-activity-graph">
+      <img src="https://activity-graph.herokuapp.com/graph?username=CaroMen&theme=dracula"/>
    </a>
 </div>
 
