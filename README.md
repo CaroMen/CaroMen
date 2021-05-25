@@ -56,7 +56,9 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 <div align="center">
-   <a href="https://github.com/CaroMen/github-readme-streak-stats"></a>
+   <a href="https://github.com/CaroMen/github-readme-streak-stats">
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="CaroMen's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=CaroMen&theme=monokai-metallian&hide_border=true"/>
+   </a>
 <!--    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats) -->
 </div>
 
