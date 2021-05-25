@@ -63,12 +63,12 @@
 
 
 <div align="center">
-   <a href="https://github-readme-stats.vercel.app/api?username=CaroMen&show_icons=true&theme=material-palenight">
-<!--       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="CaroMen's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=CaroMen&theme=material-palenight&hide_border=true"/> -->
+   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=CaroMen&layout=compact&theme=material-palenight">
+      <img src="https://github.com/CaroMen/github-readme-stats"/>
    </a>
 </div>
 
-![Caro's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaroMen&show_icons=true&theme=material-palenight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaroMen&layout=compact&theme=material-palenight)](https://github.com/CaroMen/github-readme-stats)
+<!-- ![Caro's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaroMen&show_icons=true&theme=material-palenight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaroMen&layout=compact&theme=material-palenight)](https://github.com/CaroMen/github-readme-stats) -->
 
 
