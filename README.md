@@ -39,7 +39,7 @@
 
 <div align="center">
    <h1>Technologies 👩🏽‍💻</h1>
-   <div align="center">
+<!--    <div align="center"> -->
       ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
       ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
       ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
@@ -53,7 +53,7 @@
       ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
       ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
       ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-   </div>
+<!--    </div> -->
 </div>
 
 <!-- ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
