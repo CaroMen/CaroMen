@@ -55,7 +55,12 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
+<div align="center">
+   <a href="https://github.com/CaroMen/github-readme-streak-stats"></a>
+<!--    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats) -->
+</div>
 
 ![Caro's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaroMen&show_icons=true&theme=material-palenight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaroMen&layout=compact&theme=material-palenight)](https://github.com/CaroMen/github-readme-stats)
+
 
