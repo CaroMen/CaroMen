@@ -1,7 +1,7 @@
 <!-- ### Heyo, I'm Caro 👋🏼 -->
 
 <div align="left">
-   <h1>Hi there, I'm Caro 👋🏼</h1>
+   <h4>Hi there, I'm Caro 👋🏼</h4>
   
 </div>
 
@@ -18,7 +18,7 @@
 <!-- <br /> -->
 
 <div align='left'>
-  <h2>Connect with me:</h2>
+  <h4>Connect with me:</h4>
   
    [💻 My Website][website]
    <br />
