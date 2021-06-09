@@ -74,12 +74,12 @@
    <img src="https://github-readme-stats.vercel.app/api?username=CaroMen&show_icons=true&theme=material-palenight"/>
 </div>
 
-<div align="center">
+<!-- <div align="center">
    <h2>My Contribution Stats 🤝</h2>
    <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
       <img src="https://activity-graph.herokuapp.com/graph?username=CaroMen&theme=dracula"/>
    </a>
-</div>
+</div> -->
 
 
 
