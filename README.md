@@ -1,6 +1,6 @@
 <!-- ### Heyo, I'm Caro 👋🏼 -->
 
-<div align="center">
+<div align="left">
    <h1>Hi there, I'm Caro 👋🏼</h1>
   
 </div>
@@ -17,7 +17,7 @@
 
 <!-- <br /> -->
 
-<div align='center'>
+<div align='left'>
   <h2>Connect with me:</h2>
   
    [💻 My Website][website]
@@ -37,7 +37,7 @@
 
 <!-- ### Technologies 👩🏽‍💻 -->
 
-<div align="center">
+<!-- <div align="center">
    <h1>Technologies 👩🏽‍💻</h1>
    <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
    <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js" />
@@ -52,9 +52,9 @@
    <img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker" />
    <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" />
-</div>
+</div> -->
 
-<div align="center">
+<!-- <div align="center">
    <div align="left">
       <a href="https://github.com/CaroMen/github-readme-streak-stats">
          <h2>Streaks 🔥</h2>
@@ -72,7 +72,7 @@
 <div align="center">
    <h2>My Stats ✨</h2>
    <img src="https://github-readme-stats.vercel.app/api?username=CaroMen&show_icons=true&theme=material-palenight"/>
-</div>
+</div> -->
 
 <!-- <div align="center">
    <h2>My Contribution Stats 🤝</h2>
