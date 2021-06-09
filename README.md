@@ -18,7 +18,7 @@
    <h4>About me:</h4>
    - 🌱 Currently learning Golang
    <br>
-   - ✨ I normally use `.py`, `.js`, `.html`, and `.css`
+   - ✨ I normally use ```.py```, `.js`, `.html`, and `.css`
    <br>
    - 🚀 I enjoy working on backend more than frontend.
    <br>
