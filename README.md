@@ -55,18 +55,18 @@
 </div>
 
 <div align="center">
-<!--    <div align="left"> -->
+   <div align="left">
       <h2 align="left">Streaks 🔥</h2>
       <a href="https://github.com/CaroMen/github-readme-streak-stats">
          <img align="left" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="CaroMen's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=CaroMen&theme=material-palenight&hide_border=true"/>
       </a>
-<!--    </div> -->
-<!--    <div align="right"> -->
+   </div>
+   <div align="right">
       <h2 align="right">My Top Languages 💯</h2>
       <a href="https://github.com/CaroMen/github-readme-stats">
          <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaroMen&layout=compact&theme=material-palenight"/>
       </a>
-<!--    </div> -->
+   </div>
 </div>
 
 <div align="center">
