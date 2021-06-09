@@ -15,6 +15,7 @@
 </div>
 
 <div align="left">
+   <h4>About me:</h4>
    - 🌱 Currently learning Golang
    <br>
    - ✨ I normally use `.py`, `.js`, `.html`, and `.css`
