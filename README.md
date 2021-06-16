@@ -1,6 +1,6 @@
 <!-- ### Heyo, I'm Caro 👋🏼 -->
 
-<div align="center">
+<div align="left">
    <h4>Hi there, I'm Caro 👋🏼</h4>
   
 </div>
