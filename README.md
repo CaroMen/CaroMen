@@ -13,7 +13,7 @@
 
 
 #### About me:
-- 🌱  Currently studying for my AWS certification
+- 🌱  Currently studying for my AWS certification and learning Golang
 - ✨  I normally use `.py`, `.js`, `.html`, and `.css`
 - 🚀  I enjoy working on backend more than frontend.
 - ✨  Fun fact: I've never had coffee ☕️
