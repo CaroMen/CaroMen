@@ -10,6 +10,7 @@
 - 💻  site: https://carocode.com
 - 🤝  linkedin: https://www.linkedin.com/in/caro-mendez/
 - 📸  insta: https://instagram.com/notcxro
+- 👋🏼  polywork: https://www.polywork.com/notcaro
 
 
 #### About me:
