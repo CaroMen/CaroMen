@@ -14,7 +14,7 @@
 
 
 #### About me:
-- 🌱  Currently working on a side project, Sail!
+- 🌱  Currently working on my AWS certification.
 - ✨  I normally use `.py`, `.rb`, `.js`, `.html`, and `.css`
 - 🚀  I enjoy working on backend more than frontend.
 - ✨  Fun fact: I've never had coffee ☕️
